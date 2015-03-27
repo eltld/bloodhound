@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Plugin configuration for the broadcast plugin.
+-->
+<plugin>
+    <class>berlin.kleinschmit.openfire.plugin.WebSpellPlugin</class>
+    <name>Bloodhoud</name>
+    <description>Supports webSpell sites.</description>
+    <author>Wolfgang Kleinschmit</author>
+    <version>1.0.1</version>
+    <date>2014-04-01</date>
+    <url>http://www.evampires.net</url>
+    <minServerVersion>3.9.0</minServerVersion>
+</plugin>
